@@ -1,0 +1,15 @@
+.danger, .success {
+    padding: 1rem;
+    color: white;
+    border-radius: 5px;;
+    text-align: center;
+    font-size: 1.7rem;;
+}
+
+.danger {
+    background: red;
+}
+
+.success {
+    background: green;
+}
